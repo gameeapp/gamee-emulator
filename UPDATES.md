@@ -1,0 +1,1 @@
+# Gamee Emulator - Next version
