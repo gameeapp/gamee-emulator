@@ -19,7 +19,7 @@ Emulator mirrors some behavior of our web platform. Especially:
  
 ## Plans for the future development
 
-Too see the list of the future updates in progress, please check [Emulator tool](https://github.com/gameeapp/gamee-emulator/blob/master/UPDATES.md) file. 
+Too see the list of the future updates in progress, please check [UPDATES.md](https://github.com/gameeapp/gamee-emulator/blob/master/UPDATES.md) file. 
 
 ## Contribute
 
