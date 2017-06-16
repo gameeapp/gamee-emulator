@@ -2,7 +2,7 @@
 
 [Emulator tool](http://emulator.gameeapp.com/) helps developers to develop and test games with Gamee-JS framework. Emulator is not connected with any backend. It shoudl work as replica of the web platform. 
 
-Source code of the emulator is currently not available. 
+Source code of the emulator is currently not public. 
 
 ## Features
 
