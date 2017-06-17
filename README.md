@@ -21,6 +21,10 @@ Emulator mirrors some behavior of our web platform. Especially:
 
 Too see the list of the future updates, please visit [https://github.com/gameeapp/gamee-emulator/wiki/Planned-updates](https://github.com/gameeapp/gamee-emulator/wiki/Planned-updates). 
 
+## Previous versions (and changelogs)
+
+https://github.com/gameeapp/gamee-emulator/releases
+
 ## Contribute
 
 If you want to contribute, please feel free to use [Github issue tracker](https://github.com/gameeapp/gamee-emulator/issues) of this repository. 
