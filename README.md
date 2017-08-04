@@ -11,12 +11,10 @@ The Emulator Tool mirrors some of the functionality of our web platform. For exa
  - allows you to test games both running locally and remotely
  - basic game flow features, game initialization, game start, game restart
  - pause/resume
- - mute/unmute
  - mockuping save state
  - mockuping replay
  - mockuping ghost mode
  - share via link
- - plans for the future development
  
 ## Plans for the future development
 
